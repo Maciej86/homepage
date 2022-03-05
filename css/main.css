@@ -1,0 +1,32 @@
+.main__section {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px dashed rgb(200,200,200);
+}
+
+.main__contentImages {
+    margin: 40px 0 0 0;
+    text-align: center;
+}
+
+.main__images {
+    width: 90%;
+    max-width: 900px;
+    border: 6px solid rgba(49,50,51,.3);
+    border-radius: 12px;
+}
+
+.main__contentImagesCaption {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: rgb(180,180,180);
+}
+
+.main__section--last {
+    border-bottom: none;
+    padding-top: 20px;
+}

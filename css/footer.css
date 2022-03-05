@@ -1,0 +1,14 @@
+.footer {
+    margin-top: 40px;
+    font-size: 13px;
+    text-align: center;
+    color: rgb(150, 150, 150);
+}
+  
+.footer__link {
+    color: rgb(100, 100, 100);
+}
+  
+.footer__link:hover {
+    color: rgb(69, 69, 69);
+}
